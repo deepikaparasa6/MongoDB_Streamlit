@@ -1,0 +1,6 @@
+Requirements before we execute the streamlit app:
+1. Install streamlit
+2. Install "numpy<2"
+3. Install matplotlib
+4. Install "numpy<2" pandas
+5. Install scikit-learn
